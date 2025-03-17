@@ -6,3 +6,8 @@ url: https://DeepWrite.github.io/2025-1-008
 
 aux_links:
   강의자료 홈페이지로 돌아가기: https://deepwrite.github.io/2025SPRING/
+
+just_the_docs:
+  search:
+    tokenizer_separator: /[\s\-_ㄱ-ㅎ가-힣]+/
+    preview_length: 200
