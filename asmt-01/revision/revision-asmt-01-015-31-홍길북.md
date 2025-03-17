@@ -4,7 +4,6 @@ layout: home
 nav_order: 99
 parent: 015-31 홍길북 (과제-01)
 permalink: /asmt-01/015-31/revision
-search: true
 ---
 
 # (개선) 과제-01 요약 연습 015-31 홍길북 

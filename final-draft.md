@@ -3,7 +3,6 @@ title: 기말과제 초고
 layout: home
 nav_order: 40
 permalink: /final-draft/
-search: true
 ---
 
 # 과제 설명

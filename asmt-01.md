@@ -3,7 +3,6 @@ title: 과제-01 요약 연습
 layout: home
 nav_order: 2
 permalink: /asmt-01/
-search: true
 ---
 
 # 과제 설명

@@ -3,7 +3,6 @@ title: 과제-02
 layout: home
 nav_order: 3
 permalink: /ass-02/
-search: true
 ---
 
 # 과제 설명
