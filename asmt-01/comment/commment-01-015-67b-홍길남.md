@@ -4,6 +4,7 @@ layout: home
 nav_order: 67
 parent: 015-31 홍길북 (과제-01)
 permalink: /asmt-01/015-31/commment-015-67
+search: true
 ---
 
 ---

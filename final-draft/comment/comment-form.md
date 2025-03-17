@@ -4,6 +4,7 @@ layout: home
 nav_order: 33
 parent: 015-31 홍길북 (기말과제 초고)
 permalink: /asmt-01/015-31/commment-015-33
+search: true
 ---
 
 ---
