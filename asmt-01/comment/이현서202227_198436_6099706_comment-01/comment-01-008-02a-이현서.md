@@ -2,7 +2,7 @@
 title: 008-02 이현서의 코멘트a (과제-01) 
 layout: home
 nav_order: 02
-parent: 008-02 이현서 (과제-01)
+parent: 008-06 최수빈 (과제-01)
 permalink: /asmt-01/008-06/comment-008-02
 ---
 
