@@ -1,9 +1,9 @@
 ---
-title: 008-3 김현오의 코멘트c (과제-01) 
+title: 008-03 김현오의 코멘트b (과제-01) 
 layout: home
 nav_order: 3
 parent: 008-11 김용국 (과제-01)
-permalink: /asmt-01/008-11/comment-008-3
+permalink: /asmt-01/008-11/comment-008-03
 ---
 
 # 과제-01 요약 연습에 대한 코멘트

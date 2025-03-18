@@ -1,5 +1,5 @@
 ---
-title: 008-03 김현오의 코멘트c (과제-01) 
+title: 008-03 김현오의 코멘트a (과제-01) 
 layout: home
 nav_order: 3
 parent: 008-07 오승환 (과제-01)
