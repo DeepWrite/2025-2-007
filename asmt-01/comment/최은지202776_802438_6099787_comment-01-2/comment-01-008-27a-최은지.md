@@ -2,8 +2,8 @@
 title: 008-27 최은지의 코멘트a (과제-01) 
 layout: home
 nav_order: 27
-parent: 008-27 최은지 (과제-01)
-permalink: /asmt-01/008-27/comment-008-27
+parent: 008-03 김현오 (과제-01)
+permalink: /asmt-01/008-03/comment-008-27
 ---
 
 # 과제-01 요약 연습에 대한 코멘트

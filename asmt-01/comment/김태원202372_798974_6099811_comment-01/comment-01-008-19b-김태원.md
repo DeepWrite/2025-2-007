@@ -2,7 +2,7 @@
 title: 008-19 김태원의 코멘트b (과제-01)
 layout: home
 nav_order: 19
-parent: 008-19 김태원 (과제-01)
+parent: 008-23 김가현 (과제-01)
 permalink: /asmt-01/008-23/comment-008-19
 ---
 
