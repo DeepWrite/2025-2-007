@@ -1,7 +1,7 @@
 ---
 title: 008-09 심예은의 코멘트a (과제-01) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 008-13 김은수 (과제-01)
 permalink: /asmt-01/008-13/comment-008-09
 ---

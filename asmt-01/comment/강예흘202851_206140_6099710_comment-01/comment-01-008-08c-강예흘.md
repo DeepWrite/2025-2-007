@@ -1,7 +1,7 @@
 ---
 title: 008-08 강예흘의 코멘트c (과제-01)
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 008-20 조재성 (과제-01)
 permalink: /asmt-01/008-20/comment-008-08
 ---
