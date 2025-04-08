@@ -1,9 +1,9 @@
 ---
-title: 008-16 이승우의 코멘트b (과제-08) 
+title: 008-16 이승우의 코멘트b (과제-04) 
 layout: home
 nav_order: 16
-parent: 008-08 강예흘 (과제-08)
-permalink: /asmt-08/008-08/comment-008-16
+parent: 008-08 강예흘 (과제-04)
+permalink: /asmt-04/008-08/comment-008-16
 ---
 
 # 과제-08 5-6단락 논증에세이에 대한 코멘트
