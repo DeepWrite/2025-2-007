@@ -2,7 +2,7 @@
 title: 008-16 이승우의 코멘트c (과제-04) 
 layout: home
 nav_order: 16
-parent: 008-20 조재성 (과제-20)
+parent: 008-20 조재성 (과제-04)
 permalink: /asmt-04/008-20/comment-008-16
 ---
 
