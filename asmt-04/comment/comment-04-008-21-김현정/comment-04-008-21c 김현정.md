@@ -3,7 +3,7 @@ title: 008-21 김현정의 코멘트c (과제-04)
 layout: home
 nav_order: 21
 parent: 008-13 김은수 (과제-04)
-permalink: /asmt-04/008-21/comment-008-13
+permalink: /asmt-04/008-13/comment-008-21
 ---
 
 # 과제-04 5-6단락 논증에세이에 대한 코멘트
