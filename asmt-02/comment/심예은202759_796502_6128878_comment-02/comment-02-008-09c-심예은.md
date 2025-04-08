@@ -1,7 +1,7 @@
 ---
 title: 008-09 심예은의 코멘트c (과제-02) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 008-25 도혜주 (과제-02)
 permalink: /asmt-02/008-25/comment-008-09
 ---

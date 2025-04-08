@@ -1,7 +1,7 @@
 ---
 title: 008-08 강예흘의 코멘트c (과제-02) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 008-24 김제인 (과제-02)
 permalink: /asmt-02/008-24/comment-008-08
 ---

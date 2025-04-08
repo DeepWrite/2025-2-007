@@ -1,7 +1,7 @@
 ---
 title: 008-09 심예은의 코멘트a (과제-02) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 008-01 김범찬 (과제-02)
 permalink: /asmt-02/008-01/comment-008-09
 ---

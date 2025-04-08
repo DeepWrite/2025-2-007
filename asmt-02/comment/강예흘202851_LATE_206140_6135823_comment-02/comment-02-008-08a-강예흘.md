@@ -1,7 +1,7 @@
 ---
 title: 008-08 강예흘의 코멘트a (과제-02) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 008-16 이승우 (과제-02)
 permalink: /asmt-02/008-16/comment-008-08
 ---

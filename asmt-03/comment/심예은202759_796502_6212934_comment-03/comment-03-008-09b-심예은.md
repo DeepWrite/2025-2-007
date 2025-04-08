@@ -1,7 +1,7 @@
 ---
 title: 008-09 심예은의 코멘트b (과제-03) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 008-21 김현정 (과제-03)
 permalink: /asmt-03/008-21/comment-008-09
 ---
