@@ -3,7 +3,7 @@ title: 008-10 남승범의 코멘트b (과제-07)
 layout: home
 nav_order: 10
 parent: 008-14 김리아 (과제-07)
-permalink: /asmt-07/008-03/comment-008-10
+permalink: /asmt-07/008-14/comment-008-10
 ---
 
 # 과제-07 개인별 논증 구조 작성하기
