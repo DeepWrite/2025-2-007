@@ -1,9 +1,9 @@
 ---
-title: (개선) 과제-07 개인별 논증 구조 작성하기 015-17 이소현
+title: (개선) 과제-07 개인별 논증 구조 작성하기 008-17 이소현
 layout: home
 nav_order: 99
-parent: 015-17 이소현 (과제-07)
-permalink: /asmt-07/015-17/revision
+parent: 008-17 이소현 (과제-07)
+permalink: /asmt-07/008-17/revision
 ---
 
 # (개선) 과제-07 개인별 논증 구조 작성하기 015-17 이소현 
