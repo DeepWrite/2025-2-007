@@ -1,7 +1,7 @@
 ---
 title: (개선-수정) 과제-07 개인별 논증 구조 작성하기 008-07 오승환
 layout: home
-nav_order: 99
+nav_order: 98
 parent: 008-07 오승환 (과제-07)
 permalink: /asmt-07/008-07/revision-2
 ---
