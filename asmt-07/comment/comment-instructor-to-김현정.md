@@ -2,7 +2,7 @@
 title: 교수자 코멘트 (과제-07) 
 layout: home
 nav_order: 80
-parent: 008-21 김현정 (과제-07)
+parent: (개선) 과제-07 개인별 논증 구조 작성하기 008-21 김현정
 permalink: /asmt-07/008-21/comment-008-instructor
 ---
 
