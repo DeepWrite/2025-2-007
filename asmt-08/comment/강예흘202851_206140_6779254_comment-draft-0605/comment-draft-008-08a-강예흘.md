@@ -1,7 +1,7 @@
 ---
 title: 008-08 강예흘의 코멘트a (과제-08) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 008-17 이소현 (과제-08)
 permalink: /asmt-08/008-17/comment-008-08
 ---

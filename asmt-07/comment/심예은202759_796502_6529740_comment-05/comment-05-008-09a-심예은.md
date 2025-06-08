@@ -1,7 +1,7 @@
 ---
 title: 008-09 심예은의 코멘트a (과제-07) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 008-17 이소현 (과제-07)
 permalink: /asmt-07/008-17/comment-008-09
 ---

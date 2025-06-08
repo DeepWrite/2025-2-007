@@ -1,7 +1,7 @@
 ---
 title: 008-08 강예흘의 코멘트c (과제-07) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 008-21 김현정 (과제-07)
 permalink: /asmt-07/008-21/comment-008-08
 ---

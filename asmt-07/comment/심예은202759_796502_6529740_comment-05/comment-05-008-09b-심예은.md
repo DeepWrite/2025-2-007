@@ -1,7 +1,7 @@
 ---
 title: 008-09 심예은의 코멘트b (과제-07) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 008-24 김제인 (과제-07)
 permalink: /asmt-07/008-24/comment-008-09
 ---
