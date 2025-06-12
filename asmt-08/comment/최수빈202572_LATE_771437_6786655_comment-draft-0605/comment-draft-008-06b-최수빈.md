@@ -2,7 +2,7 @@
 title: 008-06 최수빈의 코멘트b (과제-08) 
 layout: home
 nav_order: 06
-parent: 008-10  (과제-08)
+parent: 008-10 남승범 (과제-08)
 permalink: /asmt-08/008-10/comment-008-06
 ---
 

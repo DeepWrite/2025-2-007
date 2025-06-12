@@ -2,7 +2,7 @@
 title: 008-06 최수빈의 코멘트c (과제-08) 
 layout: home
 nav_order: 06
-parent: 008-14  (과제-08)
+parent: 008-14 김리아 (과제-08)
 permalink: /asmt-08/008-14/comment-008-06
 ---
 
