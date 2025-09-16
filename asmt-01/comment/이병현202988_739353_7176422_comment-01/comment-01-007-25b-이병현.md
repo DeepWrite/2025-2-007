@@ -2,7 +2,7 @@
 title: 007-25 이병현의 코멘트b (과제-01) 
 layout: home
 nav_order: 25
-parent: 007-05 박윤형(과제-01)
+parent: 007-05 박윤형 (과제-01)
 permalink: /asmt-01/007-05/comment-007-25
 ---
 
