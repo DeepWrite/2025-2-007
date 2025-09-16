@@ -1,5 +1,5 @@
 ---
-title: 007-11 윤세현의 코멘트c (과제-01) 
+title: 007-11 윤세현의 코멘트b (과제-01) 
 layout: home
 nav_order: 11
 parent: 007-19 채민정 (과제-01)
