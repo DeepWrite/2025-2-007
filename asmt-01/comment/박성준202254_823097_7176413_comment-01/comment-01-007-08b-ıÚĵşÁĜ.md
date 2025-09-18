@@ -1,7 +1,7 @@
 ---
 title: 007-08 박성준의 코멘트b (과제-01) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 007-16 윤지우 (과제-01)
 permalink: /asmt-01/007-16/comment-007-08
 ---
