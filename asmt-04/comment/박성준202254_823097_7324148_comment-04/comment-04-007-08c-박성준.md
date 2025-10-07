@@ -1,7 +1,7 @@
 ---
 title: 007-08 박성준의 코멘트c (과제-04) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 007-20 임예지 (과제-04)
 permalink: /asmt-04/007-20/comment-007-08
 ---

@@ -1,7 +1,7 @@
 ---
 title: 007-09 이준표의 코멘트c (과제-04) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 007-13 김강현 (과제-04)
 permalink: /asmt-04/007-13/comment-007-09
 ---

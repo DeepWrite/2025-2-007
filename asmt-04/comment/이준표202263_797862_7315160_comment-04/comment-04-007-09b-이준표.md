@@ -1,7 +1,7 @@
 ---
 title: 007-09 이준표의 코멘트b (과제-04) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 007-05 박윤형 (과제-04)
 permalink: /asmt-04/007-05/comment-007-09
 ---
