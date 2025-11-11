@@ -1,5 +1,5 @@
 ---
-title: 007-12 홍길동의 코멘트c (과제-07) 
+title: 007-12 한유정의 코멘트c (과제-07) 
 layout: home
 nav_order: 12
 parent: 007-26 김세이 (과제-07)
