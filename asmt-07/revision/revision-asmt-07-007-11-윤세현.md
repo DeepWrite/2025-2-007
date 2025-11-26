@@ -21,7 +21,7 @@ permalink: /asmt-07/007-11/revision
 | 주제(Topic) | 자기 구제 수단으로서 경제 제재의 필요성 |
 | 도전하려는 쟁점 | 안보딜레마 상황에서 경제 제재를 통해 평화를 유지할 수 있는가 |
 | 딜레마/난제 | 제재를 취하지 않으면 자기 구제 불가, 제재를 취하면 공격적 신호로 인식 |
-| 딜레마/난제 해소/해결 방법 | 경제 제재의 조정가능성을 통해 명확한 방어적 조치로 기능할 수 있다 |
+| 딜레마/난제 해소/해결 방법 | 경제 제재는 명확한 방어적 조치로 기능할 수 있다 |
 
 ① 주제(Topic): 무정부 상태에서 자조적 행위로서 경제 제재의 필요성
 
@@ -46,29 +46,35 @@ permalink: /asmt-07/007-11/revision
 
 ### 기본구조
 
-- **논제:** 자기 구제 수단으로서 경제 제재는 평화를 수호한다
-  - **전제1:** 국제정치 질서는 무정부(anarchy) 하에서 자조(self-help)에 의존한다
-    - 국제체제에는 상위 권위가 없기 때문에(State of Anarchy), 각국은 생존을 위해 스스로 대응(self-help)할 수밖에 없다 (Kenneth Waltz)
-    - 무정부 상태에서의 자조는 단순한 생존 기제일 뿐 아니라, 질서를 형성하는 반복적 상호작용의 결과이기도 하다. (Alexander Wendt, Anarchy is What States Make of It, 1992)
-  - **전제2:** 자조적 행위는 방어와 공격의 구분이 불명확해질 때 오인과 불안을 낳는다.
-    - 안보딜레마는 오해(misperception)에서 비롯되며, 정보 투명성과 신호전달을 통해 완화 가능하다. (Robert Jervis 1978, 2017)
-    - 방어적 현실주의(defensive realism)의 관점에서, 방어적 조치가 상대방에게 공격적 신호로 읽힐 때 갈등이 증폭된다고 지적한다. (Glaser 1997)
-  - **전제3:** 경제수단은 비무력적이고 유연성이 존재하기에, 방어적 자기 구제라는 명확한 신호를 보낼 수 있다.
-      - 경제 제재는 강제성과 상징성을 모두 지니면서도 비무력적이고 조정 가능한 수단이다 (Baldwin, Economic Statecraft 1985)
+- **논제:** 자기 구제 수단으로서 경제 제재는 필요하다.
+  - **전제1:** 국제정치 질서는 무정부(anarchy) 하에서 자조(self-help)에 의존한다. (Kenneth N. Waltz 1979)
+    - 국제체제는 국가 위에 위치한 중앙집권적 권위나 강제력을 가진 상위기구가 없는 무정부 상태이다.
+    - 국제 정치에서 모든 국가는 자신의 안보를 도모하는 동일한 기능을 수행한다.
+    - 생존을 위해 스스로 안보를 확보하는 것이 합리적 결과이며, 따라서 국가는 자조(self-help)에 의존하게 된다.
+  - **전제2:** 자조적 행위는 방어와 공격의 구분이 불명확해질 때 오인과 불안을 낳는다.(Robert Jervis 1978, 2017)
+    - 무정부 구조에서의 생존이 국가의 최우선 목표이며, 각 국가는 안보를 최우선으로 고려한다.
+    - 같은 무기 체계가 공격과 방어에 모두 사용될 수 있고, 방어적 배치와 공격적 배치의 외형적 구분이 어려울 경우, '구분 불가능'하다.
+    - 국가는 상대의 군사력 증강 혹은 행동의 의도를 최악 가정(worst-case assumption)으로 판단한다.
+    - 선의의 방어적 행동도 공격으로 오인되어 행동-반응 스파이럴(action-reaction spiral)이 나타난다.
+  - **전제3:** 경제적 안보를 위해 취한 조치는 방어적 의도를 명확히 나타낼 수 있다.
+      - 경제 제재는 군사력과 달리 강제성과 상징성을 모두 지니면서도 비무력적이고 조정 가능한 수단이다 (Baldwin, Economic Statecraft 1985)
       - 제재가 단순한 강제가 아니라, 국제사회나 상대국에 대한 ‘신호(signaling)’ 행위로 기능할 수 있다. (Lindsay 1986)
-- **결론:** 따라서 경제 제재는 자기 구제 수단으로서 국가 안보와 국제 평화를 수호할 수 있다. 
+      - 미중 관계에서 미국이 수출통제를 '제한된 조치'로 프레이밍한 사례는 "상대에게 광범위한 경제봉쇄 의도가 없음을 신호하는 경제조치 설계"의 예시이다. (Christie & Wigell 2023)
+- **결론:** 따라서 경제 제재는 명확한 방어적 의도를 가진 자기 구제 수단으로서 기능할 수 있다.
 
 ### 예상반론과 재반박
 
 - **예상반론(연역적 논증의 건전성 공격):** **전제3**에서 경제수단이 상대국에게 명확한 신호를 보낼 수 있다고 했으나, 실제로는 경제 분야에서도 행동-반응 스파이럴(action-reaction spiral)의 가능성이 존재한다.
-  - 논리적 취약점 지적: 국가 A가 자국의 경제·기술안보를 강화하기 위해 조치를 취하면, 국가 B가 이를 위협으로 인식하여 대응조치를 하며 둘 사이 긴장이 고조될 수 있다. 경제 제재가 신호로 작용할 수 있는지에 대한 실증적 근거가 필요하다.
+  - 논리적 취약점 지적: 국가 A가 자국의 경제·기술안보를 강화하기 위해 조치를 취하면, 국가 B가 이를 위협으로 인식하여 대응조치를 하며 둘 사이 긴장이 고조될 수 있다. 
 
-- **재반박:** **Drezner (2011, 2015)**에 따르면, 다자 제재(multilateral sanctions)나 국제기구를 통한 제재는 규범적 정당성(normative legitimacy)을 확보함으로써 상대국의 위협 인식(threat perception)을 낮춘다. 즉, 단독 행동이 아닌 제도적 절차를 통한 제재는 징벌적 의도보다 규범 집행(intent of rule enforcement)으로 해석된다.
+- **재반박:** **Christie & Wigell(2023)**에 따르면, 경제 안보에서 조치는 '생존' 혹은 '기술우위 추구' 등 규모, 대상에 따라 나뉘며, 이에 따라 "다른 국가가 걱정하지 않아도 되는 방어적 조치"와 "경각심을 부르는 공격적 조치"로 구분할 수 있다. 즉, **전제2**에서 나타나는 방어와 공격의 구분 불가능성은 해소할 수 있는 영역이다.
 
-## 참고문헌
+## 참고문헌   
 
 - Baldwin, D. A. (1985). Economic Statecraft. Princeton University Press.
-
+- Bulman, D. J. (2021). The economic security dilemma in US–China relations. Asian Perspective, 45(1), 49–73.
+- Christie, E. H., & Wigell, M. (2023). The economic security dilemma. Prism, National Defense University Press.
 - Drezner, D. W. (1999). The Sanctions Paradox: Economic Statecraft and International Relations. Cambridge University Press.
-
+- Jervis, R. (1978). Cooperation under the security dilemma. World Politics, 30(2), 167–214.
 - Morgenthau, H. J. (1948). Politics Among Nations: The Struggle for Power and Peace. Alfred A. Knopf.
+- Waltz, K. N. (1979). Theory of international politics. Addison-Wesley.
