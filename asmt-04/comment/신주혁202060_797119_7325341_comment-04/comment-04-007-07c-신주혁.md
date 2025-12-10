@@ -1,7 +1,7 @@
 ---
 title: 007-07 신주혁의 코멘트c (과제-04) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 007-19 채민정 (과제-04)
 permalink: /asmt-04/007-19/comment-007-07
 ---

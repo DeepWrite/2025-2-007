@@ -1,7 +1,7 @@
 ---
 title: 007-07 신주혁의 코멘트b (과제-07) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 007-10 이원재 (과제-07)
 permalink: /asmt-07/007-10/comment-007-07
 ---
